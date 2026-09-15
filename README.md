@@ -6,7 +6,7 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://princekoshthi.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi%2C+I'm+Prince+Koshthi+%F0%9F%91%8B;AI+%2F+ML+%26+Systems+Engineer;Accelerating+Inference+%7C+Edge+Vision;Building+High-Performance+AI+Infrastructure" alt="Prince Koshthi - Dynamic Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi%2C+I'm+Prince+Koshthi+%F0%9F%91%8B;AI+%2F+ML+%26+Systems+Engineer;Accelerating+Inference+%7C+Edge+Vision;\Building+High-Performance+AI+Infrastructure" alt="Prince Koshthi - Dynamic Typing Headline" />
   </a>
 
   <p align="center">
@@ -168,17 +168,17 @@ Status: "Profiling memory bottlenecks & scaling intelligent full-stack systems"
   <a href="https://leetcode.com/u/PrinceofPars/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/PrinceofPars?theme=dark&font=baloo&ext=heatmap" alt="PrinceofPars LeetCode Stats & Submission Streak Heatmap" width="48%" />
   </a>
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/PrinceofPars" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=PrinceofPars&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FFA116&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
-  </a>
+  <!-- GitHub Streak Stats (Using stable Heroku mirror) -->
+  <!-- <a href="https://github.com/PrinceofPars" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceofPars&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FFA116&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
+  </a> -->
 
-  <br /><br />
+  <!-- <br /><br /> -->
 
-  <!-- GitHub Main Stats and Top Languages -->
+  <!-- GitHub Main Stats and Top Languages (Using high-speed verified mirror) -->
   <a href="https://github.com/PrinceofPars" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=PrinceofPars&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Prince Koshthi's GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceofPars&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=PrinceofPars&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Prince Koshthi's GitHub Stats" height="150" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PrinceofPars&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" height="150" />
   </a>
 
 </div>
@@ -188,6 +188,7 @@ Status: "Profiling memory bottlenecks & scaling intelligent full-stack systems"
 ### 🐍 Contribution Activity Snake
 
 <div align="center">
+  <!-- Note: The snake SVG will display once the GitHub Actions workflow runs on GitHub -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceofPars/PrinceofPars/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinceofPars/PrinceofPars/output/github-contribution-grid-snake.svg">
@@ -198,13 +199,24 @@ Status: "Profiling memory bottlenecks & scaling intelligent full-stack systems"
 
 ---
 
-### 🎵 Coding Soundtrack & Currently Playing
+### 🎵 Coding Soundtrack & Music Activity
 
 <div align="center">
 
   <a href="https://open.spotify.com" target="_blank">
-    <!-- Live Spotify Playing Widget -->
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/Spotify-Deep%20Focus%20%7C%20Coding%20Flow-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Status" />
+  </a>
+
+  <br /><br />
+
+  <!-- 
+    Tip: To enable real-time dynamic track listening:
+    1. Visit https://spotify-github-profile.kittinanx.com
+    2. Click 'Login with Spotify' to get your UID
+    3. Replace below with: https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem
+  -->
+  <<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pqh8xe3h85x1qhde3khqa5kkr&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pqh8xe3h85x1qhde3khqa5kkr&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true">
   </a>
 
   <p>
