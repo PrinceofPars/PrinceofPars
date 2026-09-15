@@ -215,7 +215,7 @@ Status: "Profiling memory bottlenecks & scaling intelligent full-stack systems"
     2. Click 'Login with Spotify' to get your UID
     3. Replace below with: https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem
   -->
-  <<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pqh8xe3h85x1qhde3khqa5kkr&redirect=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pqh8xe3h85x1qhde3khqa5kkr&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pqh8xe3h85x1qhde3khqa5kkr&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true">
   </a>
 
